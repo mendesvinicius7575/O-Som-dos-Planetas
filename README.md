@@ -7,7 +7,7 @@
   
   <p><strong>Trabalho de Conclusão de Curso - WYDEN UNIMETROCAMP - 2021</strong></p>
   
-  <p align="justify">Utilizando-se do conceito de Sinestesia, conceito este abordado neste TCC, foi desenvolvido um protótipo didático no qual uma pessoa com deficiência auditiva consiga interagir e adquirir o conhecimento do tema abordado. Neste caso, o tema abordado se diz respeito à recente descoberta da NASA de que os Planetas de nosso Sistema Solar emitem sons, sendo assim, o usuário com deficiência auditiva consegue "ouvir o som do Planeta" através da visão (Sinestesia). Após isso, este usuário passa por algumas perguntas para testar seus conhecimentos adquiridos </p>
+  <p align="justify">Utilizando-se do conceito de Sinestesia, conceito este abordado neste TCC, foi desenvolvido um protótipo didático, utilizando as ferramentas UPBGE (Blender 3D) e Linguagem Python, no qual uma pessoa com deficiência auditiva consiga interagir e adquirir o conhecimento do tema abordado. Neste caso, o tema abordado se diz respeito à recente descoberta da NASA de que os Planetas de nosso Sistema Solar emitem sons, sendo assim, o usuário com deficiência auditiva consegue "ouvir o som do Planeta" através da visão (Sinestesia). Após isso, este usuário passa por algumas perguntas para testar seus conhecimentos adquiridos </p>
   
   <strong>Abaixo o funcionamento de forma básica do protótipo:</strong>
   <p>1 - Planetas rotacionando sem efeito:</p>
@@ -21,7 +21,14 @@
   <br><br>
   
   <h2><strong>Abaixo o vídeo do protótipo em funcionamento:</strong></h2>
+  <br>
   
-  [![Alt text](https://img.youtube.com/vi/xv15nRqOOEA/0.jpg)](https://www.youtube.com/watch?v=xv15nRqOOEA)
+  [![Sinestesia](https://img.youtube.com/vi/xv15nRqOOEA/0.jpg)](https://www.youtube.com/watch?v=xv15nRqOOEA)
+  
+  <h2>Caso tenha interesse em ler o Artigo do Projeto, ele se localiza nos arquivos deste Repsitório!</h2>
  
+  Protótipo desenvolvido por Vinícius Emanoel Mendes
+  <br>
+  Artigo Escrito por Bruno Pignato dos Santos e Vinícius Emanoel Mendes
+  
 </div>
