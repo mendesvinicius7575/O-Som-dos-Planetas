@@ -1,5 +1,5 @@
 <h1 align="center">Protótipo "O Som dos Planetas"</h1>
-<p align="center">Trabalho de Graduação: Sinestesia no Desenvolvimento de Aplicativos para Pessoas Surdas</p>
+<p align="center">Trabalho de Graduação: Sinestesia no Desenvolvimento de Aplicações para Pessoas Surdas</p>
 
 <div align="center"> 
 
