@@ -17,5 +17,11 @@
  <p>2 - Planeta emitindo luz ao passar o mouse em cima:</p>
  
  <img src="https://user-images.githubusercontent.com/108685945/180600743-668ba1b1-0887-4dd1-94bf-f58d63ca71ce.jpg" width="650px"/>
+  
+  <br><br>
+  
+  <h2><strong>Abaixo o vídeo do protótipo em funcionamento:</strong></h2>
+  
+  [![Alt text](https://img.youtube.com/vi/xv15nRqOOEA/0.jpg)](https://www.youtube.com/watch?v=xv15nRqOOEA)
  
 </div>
