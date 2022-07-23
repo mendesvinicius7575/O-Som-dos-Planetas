@@ -25,7 +25,7 @@
   
   [![Sinestesia](https://img.youtube.com/vi/xv15nRqOOEA/0.jpg)](https://www.youtube.com/watch?v=xv15nRqOOEA)
   
-  <h2>Caso tenha interesse em ler o Artigo do Projeto, ele se localiza nos arquivos deste Repositório!</h2>
+  <h2>O Artigo deste projeto se encontra neste repositório com o nome de<br> "Sinestesia no Desenvolvimento de Aplicações para Pessoas Surdas.pdf".</h2>
  
   Protótipo desenvolvido por Vinícius Emanoel Mendes
   <br>
